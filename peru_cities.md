@@ -8,3 +8,4 @@
 - Huancayo
 - Cajamarca
 - Puerto Maldonado
+- Tacna
