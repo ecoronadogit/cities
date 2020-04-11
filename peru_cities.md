@@ -13,3 +13,4 @@
 - La libertad
 - Ayacucho
 - Linux
+- Tacna
