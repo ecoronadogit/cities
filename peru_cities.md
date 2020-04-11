@@ -3,7 +3,7 @@
 - Cusco
 - Arequipa
 - Iquitos
-- Huancayo
 - Lambayeque
 - Abancay
 - Huancayo
+- Cajamarca
