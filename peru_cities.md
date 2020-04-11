@@ -6,3 +6,4 @@
 - Huancayo
 - Lambayeque
 - Abancay
+- Huancayo
