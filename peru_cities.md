@@ -9,3 +9,4 @@
 - Cajamarca
 - Puerto Maldonado
 - Tacna
+- Tumbes
