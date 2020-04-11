@@ -7,3 +7,4 @@
 - Abancay
 - Huancayo
 - Cajamarca
+- Puerto Maldonado
